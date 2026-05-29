@@ -67,14 +67,6 @@ The model learns hidden learning patterns such as:
 
 ### `course_metadata.csv`
 
-| Column | Description |
-|---|---|
-| course_id | Unique course identifier |
-| title | Course title |
-| category | Course category |
-| difficulty | Beginner / Intermediate / Advanced |
-| duration_hours | Course duration |
-
 ### Example
 
 | course_id | title | category | difficulty | duration_hours |
@@ -86,12 +78,6 @@ The model learns hidden learning patterns such as:
 ## 2. Intern Ratings Dataset
 
 ### `intern_ratings.csv`
-
-| Column | Description |
-|---|---|
-| intern_id | Unique intern identifier |
-| course_id | Course identifier |
-| rating | Rating given by intern |
 
 ### Example
 
