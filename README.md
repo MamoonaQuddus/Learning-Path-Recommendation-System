@@ -112,14 +112,6 @@ pip install pandas numpy scikit-learn streamlit
 
 # ▶️ Run the Streamlit App
 
-Save the project file as:
-
-```text
-streamlit_app.py
-```
-
-Then run:
-
 ```bash
 streamlit run app.py
 ```
