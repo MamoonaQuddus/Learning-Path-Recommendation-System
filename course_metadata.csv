@@ -1,0 +1,31 @@
+course_id,title,category,difficulty,duration_hours
+C001,Python Basics,AI/ML,Beginner,20
+C002,Machine Learning,AI/ML,Intermediate,40
+C003,Deep Learning,AI/ML,Advanced,50
+C004,Data Science,AI/ML,Intermediate,35
+C005,Computer Vision,AI/ML,Advanced,45
+C006,HTML CSS,Web Dev,Beginner,15
+C007,JavaScript,Web Dev,Beginner,25
+C008,React JS,Web Dev,Intermediate,30
+C009,Next.js,Web Dev,Advanced,40
+C010,Node.js,Web Dev,Intermediate,35
+C011,UI Design Basics,UI/UX,Beginner,20
+C012,Figma Design,UI/UX,Beginner,18
+C013,UX Research,UI/UX,Intermediate,28
+C014,Wireframing,UI/UX,Intermediate,25
+C015,Prototyping,UI/UX,Advanced,35
+C016,Cyber Security Basics,Cybersecurity,Beginner,25
+C017,Ethical Hacking,Cybersecurity,Advanced,50
+C018,Network Security,Cybersecurity,Intermediate,40
+C019,Penetration Testing,Cybersecurity,Advanced,45
+C020,Cryptography,Cybersecurity,Intermediate,38
+C021,AWS Cloud,Cloud,Intermediate,35
+C022,Azure Fundamentals,Cloud,Beginner,30
+C023,Docker,Cloud,Intermediate,28
+C024,Kubernetes,Cloud,Advanced,45
+C025,DevOps Basics,Cloud,Intermediate,32
+C026,SQL Basics,Data Science,Beginner,20
+C027,Power BI,Data Science,Intermediate,25
+C028,Data Visualization,Data Science,Intermediate,30
+C029,Excel Analytics,Data Science,Beginner,15
+C030,Big Data Fundamentals,Data Science,Advanced,45
